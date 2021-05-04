@@ -1,0 +1,40 @@
+body{
+    background-color: teal;
+
+}
+
+.MY-Yvette{
+    margin-top: 20px;
+    margin-left: 120px;
+    border-radius: 5px;
+    background-color: #ccc;
+    width: 21%;
+    height:60%
+
+
+}
+
+#our-love{
+color:yellowgreen;
+
+}
+img{
+    border-radius:5px;
+    height: 170px;
+    width: 172.8px;
+border-bottom-right-radius: 0px;
+border-bottom-left-radius: 0px;
+}
+
+h1{
+font-size:15px;
+padding: 10px;
+}
+
+p{
+   letter-spacing: normal; 
+   word-spacing: normal;
+   margin-bottom: 20px;
+   font-size: 10px;
+   padding:10px;
+}
